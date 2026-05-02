@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by henirako.*
+# GET NEXT LINE
 
 ## Description
 
@@ -22,14 +22,6 @@ It is part of the curriculum at **42**
 ## Instructions
 
 ### Installation and Setup
-
-Clone the repository:
-```bash
-git clone git@vogsphere.42antananarivo.mg:vogsphere/intra-uuid-c8fd0bca-f52a-40cd-8fd2-aa7cf928bd67-7269378-henirako GET_NEXT_LINE
-```
-```bash
-cd GET_NEXT_LINE
-```
 
 Compile the project with the required flags:
 ```bash
